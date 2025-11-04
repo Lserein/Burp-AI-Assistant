@@ -30,8 +30,10 @@
 
 在 “AI Assistant” -> “设置” 中完成：
 - 服务商：OpenAI / DeepSeek / SiliconFlow
+![image](3.png)
 - 接口地址：自定义 Base URL（如企业代理网关）
 - 模型：如 gpt-4o-mini、deepseek-chat、qwen2.5:14b
+![image](4.png)
 - 密钥：对应服务商的 API Key
 - 插件：是否启用自动分析
 - 上下文：忽略 Repeater 识别（始终允许右键）
